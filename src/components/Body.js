@@ -45,7 +45,6 @@ class Body extends Component {
           </div>
           <div className="boxButton">
             <button className="saleBtn">Vender meu Carro</button>
-            <button className="saleBtn">Vender minha Moto</button>
           </div>
         </div>
         <div className="form">
